@@ -1,0 +1,47 @@
+{
+  "puppies": [
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    },
+    null,
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Coconut",
+      "breed": "Labrador",
+      "owner": "Chloe",
+      "image": "/images/puppy2.jpg",
+      "id": "2"
+    }
+  ]
+}
